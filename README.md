@@ -10,6 +10,8 @@ Dataset Used are:
 2. Dataset of Roe v. Wade Tweets, Labeled by Abortion Stance
     https://app.surgehq.ai/projects/bc68b398-2e11-4361-a84f-5e9abde9ade8/results_ng?token=K2JgvEuvDQClFp-6
     
+3. Dataset from VICINITA by keywords #abortion , #abortionlaw #prochoice #prolife
+    
 ![Screenshot (665)](https://user-images.githubusercontent.com/54653498/197346433-874e7ecb-df8b-4cc8-8f5f-31000843fab3.png)
 
 
